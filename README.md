@@ -14,3 +14,10 @@ A página com os detalhes sobre a receita incluem algumas informações básica 
 ![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/Pagina%20ComUmaReceita.png)
 
 As novas receitas são geradas através do Django Admin um ferramenta bastante poderosa que permite fácil acesso as operações de um CRUD.
+
+A página inicial do sistema de Admin está abaixo
+![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/PaginaInicialDjangoAdmin.png)
+
+Através dessa ferramenta é possível editar objetos já inseridos no banco de dados.
+
+![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/EdicaoDeUmaReceita.png)
