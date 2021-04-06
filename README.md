@@ -31,3 +31,6 @@ Através dessa ferramenta é possível editar objetos já inseridos no banco de 
 
 Também é possível fazer um busca pelo nome de uma receita. Tanto na página inicial quanto na página de Receita
 ![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/Pesquisa%20Bolo.png)
+
+
+Estas imagens e Código fonte corresponde até a parte 2 do curso.
