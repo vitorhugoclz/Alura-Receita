@@ -8,18 +8,26 @@ Neste curso foi desenvolvido um sistema de Receita onde é possível inserir e e
 
 A interface gráfica foi feita com HTML 5, CSS 3.
 
-Abaixo segue a interface principal passada no curso
-![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/Pagina%20Inicial.png)
+A pagina inicial do projeto mostra as receitas que estão marcadas para estarem visiveis no banco de dados. As receitas podem ter um foto personalizada como icono, mas se não for adicionada uma foto existe um foto padrão que será icone e outra que será usada para descrição da receita.
+![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/PaginaInicialNova.png)
 
-A página com os detalhes sobre a receita incluem algumas informações básica sobre uma receita imáginaria sem compromisso com realidade.
+A página com os detalhes sobre a receita incluem algumas informações básica sobre uma receita, o banner é a mesma foto que utilizado no icone caso tenha sido adiciona, caso contrário é colocada um foto padrão.
 
+Página de um receita de bolo de teste com foto definida.
+![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/Receita%20Bolo.png)
+
+Página de uma receita sem foto definida.
 ![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/Pagina%20ComUmaReceita.png)
 
-As novas receitas são geradas através do Django Admin um ferramenta bastante poderosa que permite fácil acesso as operações de um CRUD.
+As novas receitas são geradas através do Django Admin uma ferramenta bastante poderosa que permite fácil acesso as operações de um CRUD.
 
-A página inicial do sistema de Admin está abaixo
-![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/PaginaInicialDjangoAdmin.png)
+A página inicial do sistema de Admin para receitas está abaixo
+![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/Novo%20Admin%20Receita.png)
 
 Através dessa ferramenta é possível editar objetos já inseridos no banco de dados.
 
-![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/EdicaoDeUmaReceita.png)
+![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/AdminReceitaEdicao.png)
+
+
+Também é possível fazer um busca pelo nome de uma receita. Tanto na página inicial quanto na página de Receita
+![alt text](https://github.com/vitorhugoclz/Alura-Receita/blob/master/FotosGitHub/Pesquisa%20Bolo.png)
